@@ -1,0 +1,44 @@
+#topbar{
+    background-color: chartreuse;
+    height: 19px;
+    width: 100%;
+    color: black;
+}
+#header{
+    padding: 5px;
+    
+  background-image: url('colour.jpg');
+
+    height:400px;
+    width: 99.3%;
+    color: white;
+
+}
+#body{
+    text-align: center;
+}
+#body2{
+    background-color: cadetblue;
+    background-image: url('colour2.jpeg');
+    height: 800px;
+    width: 100%;
+}
+.box{
+    width: 1080px;
+    height: 260px;
+    border: 1px solid black;
+    margin: 150px;
+    } 
+    #body3{
+        background-color: lightslategray;
+        background-image: url('window.png');
+        height: 1145px;
+        width: 100%;
+    
+    }
+    #body4{
+        background-color: magenta;
+        
+        height: 1115px;
+        width: 100%;
+    }
